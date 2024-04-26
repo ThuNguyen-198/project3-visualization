@@ -1,0 +1,16 @@
+#chart {
+  width: 800px;
+  height: 800px;
+} /* Style the bubbles */
+.bubble {
+  fill-opacity: 0.7;
+  stroke-width: 1px;
+  stroke: black;
+}
+
+/* Style the bubble labels */
+.label {
+  font-family: sans-serif;
+  font-size: 14px;
+  fill: #333;
+}
